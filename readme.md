@@ -24,6 +24,8 @@ transformers==4.45.1
 
 The model will be saved in `checkpoints/model`.
 
+By default, the pre-trained model `laion/clap-htsat-unfused` is used.
+
 ```bash
 python train.py
 ```
